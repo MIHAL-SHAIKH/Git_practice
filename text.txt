@@ -1,3 +1,9 @@
 welcome Mihal
 
 i am going to add some colors down there
+
+colors
+1. red
+2. blue
+3. green
+4. purple
