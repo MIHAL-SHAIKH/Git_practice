@@ -7,3 +7,5 @@ colors
 2. blue
 3. green
 4. purple
+
+i am going to add days now
