@@ -1,1 +1,3 @@
 this file belongs to lucie
+
+hi i am luci and i am frontend devloper and i am trying to learn new concepts
